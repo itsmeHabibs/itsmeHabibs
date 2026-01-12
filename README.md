@@ -1,5 +1,24 @@
-# 💫 About Me:
-Hi! I'm Ashutosh Swain , A Computer Science student with a passion for software development, web scraping, and financial data analysis. I enjoy working on projects that involve machine learning, Artificial Intelligence, and algorithmic problem-solving.<br><br>👨‍💻 What I Do:<br>Full-Stack Development – Currently building Kovela, a social platform for temples 🏛️<br>Web Scraping & Data Analysis – Extracting and analyzing structured data using Python<br>Financial & Trading Algorithms – Exploring market efficiency, backtesting, and options trading 📈<br>Systems & OS Concepts – Working on process management, inter-process communication, and scheduling<br><br>🎯 Current Focus:<br>Enhancing Kovela with better UI/UX & backend integration<br>Improving algorithmic trading strategies with market data analysis<br>Learning advanced system programming & cybersecurity concepts<br><br>💡 Open to collaborations and discussions on anything tech or finance-related!<br>📫 Reach out via LinkedIn or Email<br><br>
+💫 About Me:<br><br>
+
+Hi! I’m <b>Ashutosh Swain</b>, an <b>AI Engineer & Software Engineer</b> focused on building <b>production-grade backend systems and applied AI solutions</b>. I enjoy working at the intersection of <b>AI, distributed systems, and real-time applications</b>, turning complex problems into scalable software.<br><br>
+
+👨‍💻 <b>What I Do:</b><br>
+AI Engineering (RAG & LLM Systems) – Built retrieval-augmented generation systems for semantic search over enterprise data using <b>LangChain, LlamaIndex, ChromaDB, FAISS</b>, and local LLMs (<b>Ollama</b>)<br>
+Backend & Systems Engineering – Designing APIs and services using <b>FastAPI, Node.js, WebSockets, Redis</b>, and event-driven architectures<br>
+Real-Time & Trading Systems – Developed an <b>order execution engine</b> with DEX routing, state management, and WebSocket-based live updates<br>
+Data & ML Pipelines – Working with embeddings, vector search, feature engineering, and model evaluation for real-world use cases<br><br>
+
+🎯 <b>Current Focus:</b><br>
+Building scalable AI systems beyond demos (RAG, semantic search, agent workflows)<br>
+Improving backend reliability & performance (caching, async processing, system design)<br>
+Exploring AI applications in security, finance, and infrastructure-heavy systems<br><br>
+
+💡 <b>Open to:</b><br>
+AI/ML Engineering roles<br>
+Backend & Platform Engineering roles<br>
+Open-source and high-impact engineering collaborations<br><br>
+
+📫 Reach out via <b>LinkedIn or Email</b><br>
 
 
 ## 🌐 Socials:
